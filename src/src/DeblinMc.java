@@ -13,6 +13,7 @@ import org.bukkit.plugin.java.JavaPlugin;
  * @author Bogar
  */
 public class DeblinMc extends JavaPlugin{
+    protected String[] files = {"dbCon.txt"};
 
     @Override
     public void onEnable() {
@@ -24,4 +25,7 @@ public class DeblinMc extends JavaPlugin{
         super.onDisable(); //To change body of generated methods, choose Tools | Templates.
     }
     
+    private void initFiles(){
+        
+    }
 }
