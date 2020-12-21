@@ -1,0 +1,5 @@
+name: DebLinMc
+version: 1.0.0
+author: DRK970
+api-version: 1.16
+main: src.DeblinMc

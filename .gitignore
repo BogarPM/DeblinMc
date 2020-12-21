@@ -1,2 +1,4 @@
 spigot-1.16.4.jar
 mysql-connector-java-8.0.22.jar
+/build/
+/dist/
